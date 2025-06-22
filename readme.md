@@ -19,10 +19,7 @@ In this project, I explore whether the popularity of Google search terms reveals
 - 🎨 Beautiful, publication-ready visualizations with Matplotlib
 - 🧠 Extracting insight from rolling averages and seasonality
 
-## 📸 Sample Visualizations
-- Dual-axis comparison of Tesla stock price vs. web search interest
-- Quarterly Bitcoin price vs. search trend
-- Unemployment rate vs. benefits search volume — revealing potential leading indicators
+
 
 ## 🚀 Try It Yourself
 1. Clone the repo
